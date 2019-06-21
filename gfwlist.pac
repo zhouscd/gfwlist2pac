@@ -3,7 +3,7 @@
  * GFWList Last-Modified: 2019-05-23 00:27:18
  */
 
-var proxy = 'SOCKS5 127.0.0.1:1080';
+var proxy = 'SOCKS5 192.168.0.124:10808';
 var rules = [
     [
         [],
